@@ -53,7 +53,7 @@
 - [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc) -->
 <!-- YOUTUBE:END -->
 
-<!-- --- -->
+---
 
 ### 📕 Latest Blog Posts
 
@@ -68,7 +68,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="suvodeep4119's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suvodeep4119&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
