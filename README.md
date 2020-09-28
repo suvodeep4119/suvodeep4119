@@ -11,10 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="myPortfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="myPortfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/stackoverflow.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -53,13 +52,10 @@
 
 ### 📕 Latest Blog Posts
 
-BLOG-POST-LIST:START
-
 - [From Templating engines to REST APIs- The transition](https://medium.com/@suvodeep4119/from-templating-engines-to-rest-apis-the-transition-74d2afeee329)
 - [FireWall Port Manipulation in AWS EC2 managed instances using PowerShell](https://medium.com/tensult/remotely-open-close-firewall-ports-in-ec2-managed-instance-using-powershell-scripts-4d6284ee68eb)
 - [JavaScript TDD using Jest](https://medium.com/@suvodeep4119/javascript-tdd-using-jest-9b535c6be7be)
 - [Getting around BootStrap 4+ dropdown with Custom Directives in Angular](https://medium.com/@suvodeep4119/getting-around-bootstap-4-dropdown-with-custom-directives-in-angular-open-vs-show-a6af8e4b15c8)
-  BLOG-POST-LIST:END
 
 ---
 
@@ -67,8 +63,6 @@ BLOG-POST-LIST:START
 
 [website]: https://www.suvodeepdas.com/
 [twitter]: https://twitter.com/DasSuvodeep
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/suvodeep-das-06374489/
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
