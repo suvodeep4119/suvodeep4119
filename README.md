@@ -6,14 +6,16 @@
 - 🌱 Currently exploring the edges of MEAN stack and AWS.
 - 👯 Collab more with other developers !
 - 🥅 2020 Goals: ~~Write more code, post more blogs & contribute to community.~~ SURVIVE THE PANDEMIC
-- ⚡ Fun fact: I have over 5500 gameplay hours in Dota 2 !! Ask me anything about your new PC build !
+- ⚡ Fun fact: I have over 5800 hours of gameplay in Dota 2 !! Ask me anything about your new PC/laptop build !
 
 ### Connect with me:
 
 [<img align="left" alt="myPortfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="stackoverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SuvodeepStackoverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="SuvodeepQuora | Twitter" width="22px" src="https://simpleicons.org/icons/quora.svg" />][quora]
+[<img align="left" alt="SuvodeepLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suvodeepMedium | LinkedIn" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
+[<img align="left" alt="suvodeepSteam | LinkedIn" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
 
 <br />
 
@@ -64,6 +66,10 @@
 [website]: https://www.suvodeepdas.com/
 [twitter]: https://twitter.com/DasSuvodeep
 [linkedin]: https://www.linkedin.com/in/suvodeep-das-06374489/
+[stackoverflow]: https://stackoverflow.com/users/10604369/1dx?tab=profile
+[quora]: https://www.quora.com/profile/Suvodeep-Das-2
+[medium]: https://medium.com/me/stories/public
+[steam]: https://steamcommunity.com/profiles/76561198067746124/
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
