@@ -2,11 +2,11 @@
 
 ## Coder, gamer, enthusiast rig builder !
 
-- 🔭 I’m open to offers !
+
 - 🌱 Currently exploring the edges of MEAN stack and AWS.
 - 👯 Collab more with other developers !
-- 🥅 2020 Goals: ~~Write more code, post more blogs & contribute to community.~~ SURVIVE THE PANDEMIC
-- ⚡ Fun fact: I have over 5800 hours of gameplay in Dota 2 !! Ask me anything about your new PC/laptop build !
+- 🥅 2022 Goals: ~~Write more code, post more blogs & contribute to community.~~ SURVIVE THE PANDEMIC
+- ⚡ Fun fact: I have over 6500 hours of gameplay in Dota 2 !! Ask me anything about your new PC/laptop build !
 
 ### Connect with me:
 
