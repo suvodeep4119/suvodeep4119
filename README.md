@@ -62,7 +62,6 @@
 
 ---
 
-<img align="left" alt="suvodeep4119's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=suvodeep4119&show_icons=true&hide_border=true" />
 
 [website]: https://www.suvodeepdas.com/
 [twitter]: https://twitter.com/DasSuvodeep
