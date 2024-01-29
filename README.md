@@ -1,6 +1,6 @@
 ### Hey there, I'm Suvodeep
 
-## Coder, gamer, enthusiast rig builder !
+## Experienced in Product Engineering, AWS, MEAN stack, Go, Rust, C++, POSTGRE SQL, Systems Design, Redis, Firebase !
 
 
 - 🌱 Currently exploring the edges of Go & RUST.
