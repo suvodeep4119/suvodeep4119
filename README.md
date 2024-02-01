@@ -6,7 +6,6 @@
 - 🌱 Currently exploring the edges of Go & RUST.
 - 👯 Collab more with other developers !
 - 🥅 2024 Goals: More open source contribution
-- ⚡ Fun fact: I have over 6500 hours of gameplay in Dota 2 !! Ask me anything about your new PC/laptop build !
 
 ### Connect with me:
 
