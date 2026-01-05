@@ -1,27 +1,26 @@
 ### Hey there, I'm Suvodeep
 
-## Experienced in Product Engineering, AWS, MEAN stack, Go, Rust, C++, POSTGRE SQL, Systems Design, Redis, Firebase !
+## Experienced in Product Engineering, AWS, MEAN stack, Go, Rust, C++, PostgreSQL, Systems Design, Redis, Firebase!
 
-
--  Portfolio := https://www.suvodeepdas.com/
-- 🌱 Currently exploring the edges of Go & RUST.
-- 👯 Collab more with other developers !
-- 🥅 2024 Goals: More open source contribution
+- 🌐 Portfolio: https://www.suvodeepdas.com/
+- 🌱 Currently exploring the edges of Go & Rust
+- 👯 Collab more with other developers!
+- 🥅 2026 Goals: More open source contribution
 
 ### Connect with me:
 
 [<img align="left" alt="myPortfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SuvodeepStackoverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="SuvodeepQuora | Twitter" width="22px" src="https://simpleicons.org/icons/quora.svg" />][quora]
-[<img align="left" alt="SuvodeepLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suvodeepMedium | LinkedIn" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
-[<img align="left" alt="suvodeepSteam | LinkedIn" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
+[<img align="left" alt="SuvodeepStackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="SuvodeepQuora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="SuvodeepLinkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suvodeepMedium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="suvodeepSteam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="AmazonAWS" width="26px" src="https://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,19 +37,6 @@
 <br />
 <br />
 
-<!-- --- -->
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-
-<!-- - [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc) -->
-<!-- YOUTUBE:END -->
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -62,7 +48,6 @@
 
 ---
 
-
 [website]: https://www.suvodeepdas.com/
 [twitter]: https://twitter.com/DasSuvodeep
 [linkedin]: https://www.linkedin.com/in/suvodeep-das-06374489/
@@ -70,8 +55,3 @@
 [quora]: https://www.quora.com/profile/Suvodeep-Das-2
 [medium]: https://medium.com/me/stories/public
 [steam]: https://steamcommunity.com/profiles/76561198067746124/
-
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
