@@ -1,57 +1,70 @@
-### Hey there, I'm Suvodeep
+### Hey, I'm Suvodeep (1Dx)
 
-## Experienced in Product Engineering, AWS, MEAN stack, Go, Rust, C++, PostgreSQL, Systems Design, Redis, Firebase!
-
-- 🌐 Portfolio: https://www.suvodeepdas.com/
-- 🌱 Currently exploring the edges of Go & Rust
-- 👯 Collab more with other developers!
-- 🥅 2026 Goals: More open source contribution
-
-### Connect with me:
-
-[<img align="left" alt="myPortfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SuvodeepStackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="SuvodeepQuora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
-[<img align="left" alt="SuvodeepLinkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suvodeepMedium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="suvodeepSteam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
+**Senior Software Engineer** — backend systems, distributed architecture, and loyalty/fintech platforms.  
+Five years owning production systems end-to-end — APIs, databases, mobile apps, and infrastructure — across M2P Fintech and V-Guard Rishta at Evolve Brands India.
 
 ---
 
-### 📕 Latest Blog Posts
+### What I'm building
 
-- [From Templating engines to REST APIs- The transition](https://medium.com/@suvodeep4119/from-templating-engines-to-rest-apis-the-transition-74d2afeee329)
-- [FireWall Port Manipulation in AWS EC2 managed instances using PowerShell](https://medium.com/tensult/remotely-open-close-firewall-ports-in-ec2-managed-instance-using-powershell-scripts-4d6284ee68eb)
-- [JavaScript TDD using Jest](https://medium.com/@suvodeep4119/javascript-tdd-using-jest-9b535c6be7be)
-- [Getting around BootStrap 4+ dropdown with Custom Directives in Angular](https://medium.com/@suvodeep4119/getting-around-bootstap-4-dropdown-with-custom-directives-in-angular-open-vs-show-a6af8e4b15c8)
+**[RewardSync](https://rewardsync.suvodeepdas.com)** — a polyglot distributed loyalty engine, self-hosted on bare-metal Ubuntu  
+`NestJS · Spring Boot · FastAPI · PostgreSQL · Redis · RabbitMQ · Docker · Ollama/TinyLlama · Cloudflare Tunnel`
+
+- Commerce scan response **<50ms** via async RabbitMQ point crediting
+- Sub-100ms fraud detection across 6 weighted Redis rules with Redis SETNX dedup
+- On-prem LLM inference (TinyLlama via Ollama) with eval harness, schema-validated output, and env-flag kill switch
+- MCP server exposing wallet, scan-history, and fraud-score as agent tools
+- RAG pipeline over retailer transaction history — pgvector + TinyLlama
+- Isolation Forest fraud model running in shadow mode alongside the rules engine
 
 ---
 
-[website]: https://www.suvodeepdas.com/
-[twitter]: https://twitter.com/DasSuvodeep
-[linkedin]: https://www.linkedin.com/in/suvodeep-das-06374489/
-[stackoverflow]: https://stackoverflow.com/users/10604369/1dx?tab=profile
-[quora]: https://www.quora.com/profile/Suvodeep-Das-2
-[medium]: https://medium.com/me/stories/public
-[steam]: https://steamcommunity.com/profiles/76561198067746124/
+### Production work
+
+- Sole engineer owning **4 React Native apps**, a .NET portal, and a SQL Server database at V-Guard Rishta — scope typically requiring a 3-person team
+- Published **[react-native-vg-retailer-sdk](https://www.npmjs.com/package/react-native-vg-retailer-sdk)** on npm — native Android (Kotlin) + iOS (Swift) SDK
+- Shrunk a 55 GB SQL Server transaction log → 1 GB via VLF consolidation, restoring 99.9% uptime
+- Diagnosed and resolved a 207-session stored procedure blocking chain in production under live traffic
+- Built API throttling in Go + Node.js to process **100K+ CSV records per batch** at M2P Fintech
+
+---
+
+### Stack I actually use in production
+
+**Backend:** Node.js · TypeScript · NestJS · Spring Boot · FastAPI · Go  
+**Databases:** SQL Server 2019 · PostgreSQL · MongoDB · Redis  
+**Messaging:** RabbitMQ  
+**Mobile:** React Native (Android + iOS)  
+**Infra:** AWS EC2 · Docker · Cloudflare Tunnel · Ubuntu Server  
+**AI/ML:** Ollama · TinyLlama · pgvector · Isolation Forest · MCP
+
+---
+
+### Home server — loki
+
+HP Pavilion running Ubuntu, self-hosting RewardSync and personal projects via Cloudflare Tunnel.  
+Portfolio: [suvodeepdas.com](https://www.suvodeepdas.com)
+
+---
+
+### Published research
+
+[Traffic Signal Automation via Deep Learning](https://www.ijrece.org/) · IJRECE Vol. 7 Issue 1, 2019  
+Real-time adaptive traffic signal control using a CNN architecture — published during MCA final year.
+
+---
+
+### Writing
+
+- [From Templating Engines to REST APIs — The Transition](https://medium.com/@suvodeep4119/from-templating-engines-to-rest-apis-the-transition-74d2afeee329)
+- [Firewall Port Manipulation in AWS EC2 via PowerShell](https://medium.com/tensult/remotely-open-close-firewall-ports-in-ec2-managed-instance-using-powershell-scripts-4d6284ee68eb)
+
+---
+
+### 2026
+
+Deepening distributed systems and applied AI engineering. Specifically: agent orchestration, LLM eval design, and production safety patterns (guardrails, least-privilege tool design, shadow-mode model rollout).
+
+---
+
+[Portfolio](https://www.suvodeepdas.com) · [LinkedIn](https://www.linkedin.com/in/suvodeep-das-06374489/) · [Stack Overflow](https://stackoverflow.com/users/10604369/1dx) · [npm](https://www.npmjs.com/package/react-native-vg-retailer-sdk) · [Medium](https://medium.com/@suvodeep4119)
