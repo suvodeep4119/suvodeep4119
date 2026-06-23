@@ -12,7 +12,7 @@
 
 ---
 
-## Hey, I'm Suvodeep (1Dx)
+## Hey, I'm Suvodeep
 
 Senior Software Engineer — backend systems, distributed architecture, and loyalty/fintech platforms. Five years owning production systems end-to-end across M2P Fintech and V-Guard Rishta.
 
@@ -160,9 +160,9 @@ Real-time adaptive traffic signal control using a CNN architecture — published
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1dx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/1dx)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvodeep4119&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/suvodeep4119)
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1dx&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/1dx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvodeep4119&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/suvodeep4119)
 
 </div>
 
